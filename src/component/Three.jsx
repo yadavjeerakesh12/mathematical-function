@@ -54,7 +54,7 @@ export default function Three() {
             <div className='lg:w-1/2 bg-[url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHY3ZxDNlaDhF77b6wHVcCVWQJGqBpwS4fAgr0MwkF0VTN2Gn4YBEDj7oL&s=10)] w-full bg-cover bg-center text-white  h-full lg:h-screen flex justify-center items-center '>
                 <h1 className='text-2xl   p-3 ml-3'>
                     <span className='font-bold font-sans'>Instructions</span> <br />
-                    You will be given two 2-digit numbers. <br />
+                    You will be given three  2 or 3-digit numbers. <br />
                     A mathematical operator will be placed between them: <br />
                     + Addition <br />
                     − Subtraction <br />
